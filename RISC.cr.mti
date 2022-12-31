@@ -1,0 +1,72 @@
+C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/controller.sv {1 {vlog -work work -sv -stats=none C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/ram.sv {1 {vlog -work work -sv -stats=none C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/ram.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/ramtest.sv {1 {vlog -work work -sv -stats=none C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/ramtest.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ramtest
+-- Compiling module tb_ramtest
+
+Top level modules:
+	tb_ramtest
+
+} {} {}} C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/tb_task1.sv {1 {vlog -work work -sv -stats=none C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/tb_task1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_task1
+
+Top level modules:
+	tb_task1
+
+} {} {}} C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/shifter.sv {1 {vlog -work work -sv -stats=none C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/shifter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/task3.sv {1 {vlog -work work -sv -stats=none C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/task3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task3
+
+Top level modules:
+	task3
+
+} {} {}} C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/alu.sv {1 {vlog -work work -sv -stats=none C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/alu.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/regfile.sv {1 {vlog -work work -sv -stats=none C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/regfile.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/idecoder.sv {1 {vlog -work work -sv -stats=none C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/idecoder.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module idecoder
+
+Top level modules:
+	idecoder
+
+} {} {}} C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/datapath.sv {1 {vlog -work work -sv -stats=none C:/Users/leest/OneDrive/Documents/School/Cpen211/lab7_submission/datapath.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}}
